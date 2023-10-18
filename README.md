@@ -15,7 +15,7 @@ The business analyst assigned to your sprint team has presented you with two use
 ## User Story 1
 As a vendor supplying services to 2ULaundry I need to submit invoices via an API in order to receive payment in a timely manner.
 
-### Acceptance criteria
+### Acceptance Criteria
 1. The API accepts JSON formatted HTTP POST requests at the route '/Invoice'
 The following is a sample Invoice request that will be submitted to the API endpoint.
 ```javascript
@@ -42,7 +42,7 @@ The following is a sample Invoice request that will be submitted to the API endp
 ## User Story 2
 As a member of the 2ULaundry Accounting Team I need to see a list of invoices that have been submitted by vendors, but have not yet been approved for payment so that I can review and approve them.
 
-### Acceptance criteria
+### Acceptance Criteria
 1. Create an interface with react.js that shows a list of unapproved invoices that are submitted via API described in user story #1.
 2. Display the following fields for each invoice:"Invoice Number", "Vendor Name", "Vendor Address", "Invoice Total", "Invoice Date", "Due Date"
 3. Create a solution that allows the user to select and approve invoices. Once an invoice is "Approved" it should dissappear from the list of available invoices.
