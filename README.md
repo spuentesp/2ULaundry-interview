@@ -1,9 +1,17 @@
-# 2uAssessment
+# 2ULaundry Tech Assessment Overview
+
+The purpose of this assessment is to gain an understanding of your approach to development and problem solving. Your primary focus should be creating a working solution that meets as many of the acceptance criteria as possible with a secondary focus on elements like design and/or supplemental functionality. It is not necessary to complete every acceptance criteria to submit the assessment. Complete what you can and leave "TODO:" comments with appropriate placeholder instructions anywhere you are unable to complete your code. You must turn the assignment by the end of the third day after you are given the assignment.
+
+## Guidelines & Instructions
+
+We expect this work will take 1/2 day to a full day to complete depending on your familiarity with Node and React
+You have up to 3 days to complete and return the assignment
+You are free to use any resources or reference materials at your disposal to complete the task
+Fork this repo and push the code to your new forked repo. Submit the forked repo's URL to techassessment@2ulaundry.com
+
+# The Assignment
+
 The business analyst assigned to your sprint team has presented you with two user stories to complete this sprint. This assessment asks you to complete these story cards to the best of your ability. 
-
-The assessment is more about creating a working solution that meets as many of the acceptance criteria as possible than it is about getting every detail perfect. It is not necessary to complete every acceptance criteria to submit the assessment. Complete what you can and leave "TODO:" comments with appropriate placeholder instructions anywhere you are unable to complete your code. You must turn the assignment by the end of the third day after you are given the assignment.
-
-Fork this repo and push the code to your new forked repo. Submit the forked repo's URL to greg@2ulaundry.com
 
 ## User story 1
 As a vendor supplying services to 2ULaundry I need to submit invoices via an API in order to receive payment in a timely manner.
@@ -34,7 +42,6 @@ The following is a sample Invoice request that will be submitted to the API endp
 
 ## User story 2
 As a member of the 2ULaundry Accounting Team I need to see a list of invoices that have been submitted by vendors, but have not yet been approved for payment so that I can review and approve them.
-
 
 ### Acceptance criteria
 1. Create an interface with react.js that shows a list of unapproved invoices that are submitted via API described in user story #1.
