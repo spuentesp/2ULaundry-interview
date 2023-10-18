@@ -8,6 +8,7 @@ The purpose of this assessment is to gain an understanding of your approach to d
 - You have up to 3 days to complete and return the assignment
 - You are free to use any resources or reference materials at your disposal to complete the task
 - Fork this repo and push the code to your new forked repo. Submit the forked repo's URL to techassessment@2ulaundry.com
+- If you have any questions about the assignment, you may also reach out to techassessment@2ulaundry.com
 
 ## The Assignment
 The business analyst assigned to your sprint team has presented you with two user stories to complete this sprint. This assessment asks you to complete these story cards to the best of your ability. 
