@@ -12,7 +12,7 @@ The purpose of this assessment is to gain an understanding of your approach to d
 ## The Assignment
 The business analyst assigned to your sprint team has presented you with two user stories to complete this sprint. This assessment asks you to complete these story cards to the best of your ability. 
 
-## User story 1
+## User Story 1
 As a vendor supplying services to 2ULaundry I need to submit invoices via an API in order to receive payment in a timely manner.
 
 ### Acceptance criteria
@@ -39,7 +39,7 @@ The following is a sample Invoice request that will be submitted to the API endp
 ```
 3. Store the invoices in a data store of your choice with an additional property and value "status": "pending" 
 
-## User story 2
+## User Story 2
 As a member of the 2ULaundry Accounting Team I need to see a list of invoices that have been submitted by vendors, but have not yet been approved for payment so that I can review and approve them.
 
 ### Acceptance criteria
