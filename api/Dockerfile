@@ -1,0 +1,10 @@
+# packages/server/Dockerfile
+FROM node:18
+
+WORKDIR /app
+COPY package*.json ./
+RUN npm install
+COPY . .
+ENV ADDRESS=0.0.0.0 PORT=3000
+
+CMD ["node", "index.js"]
